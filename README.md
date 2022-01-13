@@ -48,5 +48,4 @@ The keypad must first be plugged into the device you want to use it on, presumab
 #### loop()
 
 
-## Attributes
 ## Skills Demonstrated
