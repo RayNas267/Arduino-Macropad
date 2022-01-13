@@ -9,7 +9,7 @@ After browsing through various project ideas, I decided on this one because I th
 ## Part Selection
 
 First I needed to decide on the switches that we were going to use. Taking into account the use of this as an everyday item, I chose switches that were on the quieter side. (potentially insert image here of said switches). The source that I referenced in creating this project also had a knob on their keypad, and so I got this rotary encoder for that purpose. 
-![image](https://user-images.githubusercontent.com/75506860/149284553-9f29654f-29b5-4d20-abda-9f82d1427830.png)
+![image](https://user-images.githubusercontent.com/75506860/149284622-9808acf0-58e9-4644-a2ea-d78279ed8fa3.png)
 Finally, the board I used was the Arduino Pro Micro--it was perfect in the sense that it was compact and capable of supporting the various libraries necessary. (insert arduino pro micro image).
 
 ## CAD Model
