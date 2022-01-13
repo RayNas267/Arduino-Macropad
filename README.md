@@ -23,7 +23,7 @@ This is the completed CAD model that would house all my components and wiring. O
 
 I had to begin by 3D printing the top plate first, as this was where all the components were fastened to initially, a necessary step before I could begin the wiring process in earnest. Once I had completed all of the wiring, I was able to go forth and print the bottom half, which simply allowed everything to be contained. Below are two images of the top plate with the components on it and the bottom half on its own.
 
-![image](https://user-images.githubusercontent.com/75506860/149284134-f23717b1-9316-4cd9-bf06-46089ddb49c8.png)
+![image](https://user-images.githubusercontent.com/75506860/149285208-238d3bab-b4b3-4506-a2ac-ebd031e27e33.png)
 
 ### Wiring
 
