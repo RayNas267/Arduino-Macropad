@@ -46,6 +46,7 @@ The keypad must first be plugged into the device you want to use it on, presumab
 
 #### setup()
 
+The initial setup() function is used to setup the keyboard, rotary encoder, and the pins for the LEDs. It also activates the starting animation.
 
 #### loop()
 
