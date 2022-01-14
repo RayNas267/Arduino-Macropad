@@ -4,7 +4,8 @@
 
 After browsing through various project ideas, I decided on this one because I thought it would be a fun way to practice the skills I gained in my Digital Electronics class as well as create something I could use in my day to day life. Furthermore, the customizable nature of this project made it something that I could continue to improve for my use in the future; thus, I decided to create the Quad-Profile Programmable Keypad. 
 
-(insert image of final product here)
+![image](https://user-images.githubusercontent.com/75506860/149466306-bfc8e9f1-1a77-4dbf-ad1c-86cce6bb1fd9.png) ![image](https://user-images.githubusercontent.com/75506860/149466516-4c2e2ce2-55d6-4c07-b5ad-53b85f904b33.png)
+
 
 ## Part Selection
 
