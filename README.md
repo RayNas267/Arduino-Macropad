@@ -49,4 +49,7 @@ The second challenge, was using the correct libraries. The code for the arduino 
 The initial setup() function is used to setup the keyboard, rotary encoder, and the pins for the LEDs. It also activates the starting animation.
 
 #### loop()
-The main loop() functions constantly checks for 3 things: if a key was pressed, if the rotary encoder was presses, and if the rotary encoder was turned.
+The main loop() functions constantly checks for 3 things: if a key was pressed, if the rotary encoder was pressed, and if the rotary encoder was turned.
+
+## Resources
+Here is a link to the source which we got the idea from: https://www.instructables.com/Programmable-Macropad-V2/
