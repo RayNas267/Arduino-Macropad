@@ -1,4 +1,4 @@
-/*   Rayyan Nasser
+/*   Rayyan Nasser & Gabe Cordova
  *   Digital Electronics Final Project
  *   Quad-Profile MacroPad
  */
