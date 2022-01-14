@@ -4,10 +4,10 @@
  */
 
 //libraries
-#include <Keypad.h>
-#include <Encoder.h>
-#include <Bounce2.h>
-#include "HID-Project.h"
+#include <Keypad.h>         // 3.1.1
+#include <Encoder.h>        // 1.4.2
+#include <Bounce2.h>        // 2.60.0
+#include "HID-Project.h"    // 2.6.0
 
 //Creating the Keypad
 byte R1 = 21;
