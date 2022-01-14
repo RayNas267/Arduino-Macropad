@@ -16,8 +16,7 @@ First we needed to decide on the switches that we were going to use. Taking into
 
 This is the completed CAD model that would house all my components and wiring. On the top there are four small circular holes for the LEDs, 11 square holes for the keys, and a large circular hole for the knob. On the side, there is a hole for the USB to plug into. This design is more intended to simply contain all the wiring and components rather than hold them in place; in fact, only the top plate really holds things in place (the switches, LEDs, and rotary encoder).
 
-![image](https://user-images.githubusercontent.com/78373556/149567221-95abbedb-3877-4c70-9c34-980b2d0c6316.png)
-
+![image](https://user-images.githubusercontent.com/78373556/149578031-3429334d-b041-425c-a7e1-7f90c705817f.png)
 
 ## Manufacturing
 
