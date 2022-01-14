@@ -49,5 +49,3 @@ The initial setup() function is used to setup the keyboard, rotary encoder, and 
 
 #### loop()
 The main loop() functions constantly checks for 3 things: if a key was pressed, if the rotary encoder was presses, and if the rotary encoder was turned.
-
-## Skills Demonstrated
