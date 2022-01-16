@@ -30,8 +30,7 @@ We had to begin by 3D printing the top plate first, as this was where all the co
 
 This was by far the most complex portion of the project. Due to choosing to create this keypad in the manner of an array rather than utilizing a PCB, we had to do a lot of soldering in order to have everything connect properly. Some issues that we came across was accidentally having the diodes facing the wrong way, or how some of the soldered wires would accidentally interact with each other once we pushed the wiring down to have it fit inside of our housing container. In order to remedy this issue, we had to ensure that the wires were oriented in a way that they avoided touching each other, and we were finally able to get it successfully in the container and functioning properly. The picture below is of the wiring diagram.
 
-![image](https://user-images.githubusercontent.com/75506860/149280266-92cd7773-f6e2-4f8d-90a3-e38c987e9077.png)
-
+![image](https://user-images.githubusercontent.com/75506860/149678559-f22d7250-43c8-4473-88ff-c997c55446c8.png)
 
 ## User Guide
 
