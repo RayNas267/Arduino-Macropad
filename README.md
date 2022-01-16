@@ -40,6 +40,7 @@ The keypad must first be plugged into the device you want to use it on, presumab
 
 ### Technical Challenges
 The first challenge was soldering all of the componenets together. Unlike regular keyboards or keypads, our MacroPad doesn't use a PCB. In order to circumvent this, the mechanical switches need to be soldered to wires directly. This proved to be very difficult because we didn't have much experience with soldering wires, diodes, and resistors together directly. However, as the project progressed and we got more experience, it became much easier.
+
 The second challenge, was using the correct libraries. The code for the arduino used 4 external libraries: Keypad, Encoder, Bounce2, and HID-Project. We needed to figure out which versions of the libraries to use as well as the functions of each library. This consisted of a lot of trial and error, as well as a lot of testing and debugging. Thankfully, like the previous challege, this was solved with time.
 
 ### Organization
